@@ -4,5 +4,7 @@ java -Xmx256M -Xms256M -Xss1M -XX:MaxPermSize=128M -XX:+UseParallelGC -XX:OnOutO
 
 
 ./sbt console
+
+
 ag.bett.scala.wowzakka.WowzAkkaClient.doIt
 
